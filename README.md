@@ -1,8 +1,8 @@
 NAME: Favour Oluchi Boi
 
-SLACK USERNAME: Orluchy
+EMAIL ADDRESS: favourboi86@gmail.com
 
-EMAIL: favourboi86@gmail.com
+SLACK USERNAME: Orluchy
 
 TRACKS REGISTERED: Front End, Design
 
