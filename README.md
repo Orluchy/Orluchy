@@ -11,9 +11,9 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 🌱 I’m currently learning JavaScript, DevOps and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps engineer or Cloud Engineer (Intern or Junior role).
-- 📫 You can [view my resume](#) and contact me by emailing mailto:favourboi86@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing favourboi86@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=orluchy&show_icons=true&include_all_commits=true&hide_border=true" alt="Oluchi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orluchy&langs_count=8&layout=compact&hide_border=true" alt="Oluchi's GitHub stats" /> |
 | ------------- | ------------- |
