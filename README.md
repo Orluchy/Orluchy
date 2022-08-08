@@ -11,7 +11,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 🌱 I’m currently learning JavaScript, DevOps and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps engineer or Cloud Engineer (Intern or Junior role).
-- 📫 You can [view my resume](#) and contact me by emailing mailtofavourboi86@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailto:favourboi86@gmail.com.
 
 ---
 
