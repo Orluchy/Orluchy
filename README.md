@@ -8,7 +8,7 @@ I'm a Software Engineer, and IT support enthusiast. I'm passionate about sharing
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, DevOps and Cloud Engineering.
+- 🌱 I’m currently learning DevOps/Cloud Engineering and OSS Contribution.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps engineer or Cloud Engineer (Intern or Junior role).
 - 📫 You can [view my resume](#) and contact me by emailing favourboi86@gmail.com.
