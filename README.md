@@ -25,6 +25,11 @@
 
 ---
 
-### :bar_chart: My Stat's :
+### :bar_chart: My Stats :
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=orluchy&show_icons=true&include_all_commits=true&hide_border=true" alt="Orluchy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orluchy&langs_count=8&layout=compact&hide_border=true" alt="Orluhy's GitHub stats" /> |
 | ------------- | ------------- |
+
+---
+
+### 🎖️ My Badges : 
+[![@orluchy's Holopin board](https://holopin.io/api/user/board?user=orluchy)](https://holopin.io/@orluchy)
